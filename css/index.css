@@ -76,6 +76,8 @@ p {
     flex-wrap: wrap;
     justify-content: space-evenly;
     margin-bottom: 20px;
+    align-items: flex-start;
+    align-content: center;
     border-bottom: 1px dashed black;
 }
 
