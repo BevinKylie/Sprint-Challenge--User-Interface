@@ -108,6 +108,13 @@ header {
     width: 100%;
 }
 
+.about-header-img {
+  display: inline-block;
+  margin-top: 20px;
+  margin-bottom: 30px; 
+  width: 100%;
+}
+
 .logo {
   display: inline-block;
   align-items: center;
