@@ -60,8 +60,8 @@ You are expected to be able to answer all these questions. Your responses contri
  
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
-- [ ] Add your TL as a reviewer on the pull-request
+- [ x] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
+- [ x] Add your TL as a reviewer on the pull-request
 - [ ] Your TL will count the project as complete by merging the branch back into master.
  
 
