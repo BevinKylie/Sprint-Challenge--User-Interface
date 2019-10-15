@@ -260,6 +260,16 @@ header {
     border-bottom: 1px dashed black;
 }
 
+.container-about-page {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-bottom: 20px;
+  align-items: flex-start;
+  align-content: center;
+  border-bottom: 1px dashed black;
+}
+
 .top-content .text-container {
     width: 48%;
     padding: 0 1%;
