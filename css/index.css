@@ -91,7 +91,7 @@ header {
     margin-right: 15px;
     color:white;
   }
-  .header:after {
+  .header: after {
     display: inline-block;
     width: 100%;
     content: '';
@@ -149,10 +149,10 @@ header {
   background: gold;
   margin: 20px 2.5%;
   color: white;
-display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: space-evenly;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
 }
 	
 .box3 {
@@ -161,10 +161,10 @@ display: flex;
   background: cadetblue;
   margin: 20px 2.5%;
   color: white;
-display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: space-evenly;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
 }
 	
 .box4 {
@@ -173,7 +173,7 @@ display: flex;
   background: coral;
   margin: 20px 2.5%;
   color: white;
-display: flex;
+  display: flex;
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-evenly;
@@ -185,7 +185,7 @@ display: flex;
   background: crimson;
   margin: 20px 2.5%;
   color: white;
- display: flex;
+  display: flex;
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-evenly;
@@ -197,10 +197,9 @@ display: flex;
   background: forestgreen;
   margin: 20px 2.5%;
   color: white;
-display: flex;
-    flex-wrap: wrap;
+  display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 	
 .box7 {
