@@ -47,6 +47,7 @@ q:before, q:after {
 	content: '';
 	content: none;
 }
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
@@ -250,6 +251,14 @@ header {
   justify-content: space-evenly;
 }
 
+.button{
+  border-radius: 5px;
+  border: 2px solid black;
+  background: #fff;
+  align-content: center;
+  padding: 10px;
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
@@ -328,6 +337,7 @@ header {
 footer {
     width: 100%;
     background: black;
+    display: flex;
     align-items:center;
 }
 
