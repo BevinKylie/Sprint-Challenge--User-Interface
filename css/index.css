@@ -92,7 +92,7 @@ header {
     margin-right: 15px;
     color:white;
   }
-  .header: after {
+  .header:after {
     display: inline-block;
     width: 100%;
     content: '';
@@ -193,14 +193,15 @@ header {
 }
 	
  .box6 {
-  width: 12.5%;
+    width: 12.5%;
   height: 100px;
   background: forestgreen;
   margin: 20px 2.5%;
   color: white;
   display: flex;
-    align-items: center;
-    justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
 }
 	
 .box7 {
@@ -251,7 +252,7 @@ header {
   justify-content: space-evenly;
 }
 
-.button{
+.button {
   border-radius: 5px;
   border: 2px solid black;
   background: #fff;
@@ -312,7 +313,7 @@ header {
   justify-content: space-evenly;
 }
 
-.middle-content .boxes .box {
+.middle-content .boxes {
   width: 12.5%;
   height: 100px;
   background: black;
@@ -334,7 +335,7 @@ header {
 
  .about-content div {
   width: 49%;
-  height: 200px;
+  height: 100%;
   margin-bottom: 20px;
   border-bottom: 1px dashed black;
   display: flex;
