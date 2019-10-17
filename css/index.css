@@ -319,7 +319,7 @@ header {
   justify-content: space-evenly;
 }
 
-.middle-content .boxes {
+.middle-content .boxes  .box{
   width: 12.5%;
   height: 100px;
   background: black;
