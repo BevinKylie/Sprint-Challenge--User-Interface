@@ -92,7 +92,7 @@ header {
     margin-right: 15px;
     color:white;
   }
-  .header: after {
+  .header:after {
     display: inline-block;
     width: 100%;
     content: '';
@@ -178,11 +178,18 @@ header {
 }
 	
  .box6 {
-  width: 12.5%;
+    width: 12.5%;
   height: 100px;
   background-color: forestgreen;
   margin: 20px 2.5%;
   color: white;
+<<<<<<< HEAD
+=======
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+>>>>>>> 6b1962a7398e82016f0f209437f8b743578497d7
 }
 	
 .box7 {
@@ -217,7 +224,7 @@ header {
   color: white;
 }
 
-.button{
+.button {
   border-radius: 5px;
   border: 2px solid black;
   background: #fff;
@@ -280,7 +287,7 @@ header {
   justify-content: space-evenly;
 }
 
-.middle-content .boxes .box {
+.middle-content .boxes {
   width: 12.5%;
   height: 100px;
   margin: 20px 2.5%;
@@ -301,7 +308,11 @@ header {
  }
 
  .about-content div {
+<<<<<<< HEAD
   width: 40%;
+=======
+  width: 49%;
+>>>>>>> 6b1962a7398e82016f0f209437f8b743578497d7
   height: 100%;
   margin-bottom: 20px;
   border-bottom: 1px dashed black;
